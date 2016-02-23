@@ -5,7 +5,7 @@ options.
 
 Given the following list:
 
-``ruby
+```ruby
 list = [1,2,3,4]
 ```
 
