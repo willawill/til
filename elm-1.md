@@ -31,3 +31,9 @@ CP Black Knight : Repl.CP
 |     else n * 2
 <function> : number -> number'
 ```
+
+- `Cons` is used at compile time to define types, means construct, with head and tails arguments. 
+
+- `monad` is actullay callbacks
+
+- `Record` is like javascript objects that gives you easy access to name field. But records are immutable.
